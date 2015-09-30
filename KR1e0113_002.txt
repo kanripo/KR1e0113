@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 惠氏春秋說
-#+DATE: 2015-09-23 09:40:40
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:17:31.459327
+#+PROPERTY: ID KR1e0113
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0113_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋説卷二¶
@@ -1136,4 +1138,3 @@
 禮也餘詳禮説¶
 　¶
 　春秋説卷二¶
-

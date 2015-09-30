@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 惠氏春秋說
-#+DATE: 2015-09-23 09:40:40
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:17:31.614351
+#+PROPERTY: ID KR1e0113
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0113_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋說卷八¶
@@ -1046,4 +1048,3 @@
 　¶
 　¶
 　春秋說卷八¶
-
